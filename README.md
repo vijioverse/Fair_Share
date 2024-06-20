@@ -19,7 +19,7 @@ Hardware Use:
 Software Use:
 •       Ethereum clients: Parity and Infura.
 •       IDE: Remix, VS code, IntelliJ, 
-•       Framework: Truffle, Brownie
+•       Framework: Truffle, Brownie, hardhat
 •       LocalTest Network: Ganache
 •       Ethereum Test Network: Sepolia, Rinkby
 •       Programming Language: Solidity and Python
